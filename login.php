@@ -138,7 +138,7 @@
 			};	
 
 			function logintosignup() {
-				document.location.href="signup.php";
+				document.location.href="index.php";
 			};
 
 		</script>
